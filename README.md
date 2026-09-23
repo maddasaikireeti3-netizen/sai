@@ -1,5 +1,10 @@
 # sai
 
+++++++
+bastion-ad1.rb.ap-sydney-1.oci.oracleiaas.com
++++++++
+
+
 To run the all proxy
 cd C:\Windows\system32\misc-tools\allproxy
 venv\Scripts\allproxy.exe 
